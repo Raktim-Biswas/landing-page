@@ -100,12 +100,20 @@
   font-size: 30px;
 }
 
-.information-images {
+/* .information-images {
   margin: auto;
-  width: 60%;
+  width: auto;
+} */
+
+.information-images {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 80px;
 }
 
 .information-images > img {
   border: #3882f6 solid 6px;
   border-radius: 12px;
+  width: 250px;
 }
