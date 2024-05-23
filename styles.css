@@ -178,12 +178,14 @@
   border: solid white 2px;
   border-radius: 6px;
   background-color: #3882f6;
-  color: #e5e7eb;
+  color: #f9faf8;
   margin-left: 600px;
-  padding: 16px 60px;
+  padding: 12px 50px;
   vertical-align: bottom;
   margin-top: 4px;
   cursor: pointer;
+  font-size: 24px;
+  font-weight: bold;
 }
 
 .copy-right {
