@@ -153,7 +153,7 @@
 
 .sign-up {
   background-color: #3882f6;
-  width: 70%;
+  width: 60%;
   margin: 0 auto;
   color: #f9faf8;
   border-radius: 12px;
@@ -163,6 +163,7 @@
   padding-bottom: 80px;
   display: flex;
   font-size: 24px;
+  gap: 400px;
 }
 
 .sign-up-heading {
@@ -179,7 +180,6 @@
   border-radius: 6px;
   background-color: #3882f6;
   color: #f9faf8;
-  margin-left: 600px;
   padding: 12px 50px;
   vertical-align: bottom;
   margin-top: 4px;
