@@ -163,7 +163,8 @@
   padding-bottom: 80px;
   display: flex;
   font-size: 24px;
-  gap: 400px;
+  gap: 30%;
+  padding-right: 90px;
 }
 
 .sign-up-heading {
